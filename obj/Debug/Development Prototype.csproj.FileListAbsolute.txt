@@ -1,0 +1,71 @@
+M:\Task 2\Development Prototype\bin\Debug\Development Prototype.exe.config
+M:\Task 2\Development Prototype\bin\Debug\Development Prototype.exe
+M:\Task 2\Development Prototype\bin\Debug\Development Prototype.pdb
+M:\Task 2\Development Prototype\obj\Debug\Development Prototype.csproj.AssemblyReference.cache
+M:\Task 2\Development Prototype\obj\Debug\Development_Prototype.Login.resources
+M:\Task 2\Development Prototype\obj\Debug\Development_Prototype.Properties.Resources.resources
+M:\Task 2\Development Prototype\obj\Debug\Development Prototype.csproj.GenerateResource.cache
+M:\Task 2\Development Prototype\obj\Debug\Development Prototype.csproj.CoreCompileInputs.cache
+M:\Task 2\Development Prototype\obj\Debug\Development Prototype.exe
+M:\Task 2\Development Prototype\obj\Debug\Development Prototype.pdb
+M:\Task 2\Development Prototype\obj\Debug\Development_Prototype.Register.resources
+M:\Task 2\Development Prototype\obj\Debug\Development_Prototype.Weather.resources
+M:\Task 2\Development Prototype\obj\Debug\Development_Prototype.Fitness.resources
+M:\Task 2\Development Prototype\obj\Debug\Development_Prototype.Health.resources
+M:\Task 2\Development Prototype\bin\Debug\Newtonsoft.Json.dll
+M:\Task 2\Development Prototype\bin\Debug\Newtonsoft.Json.xml
+M:\Task 2\Development Prototype\obj\Debug\Development Prototype.csproj.CopyComplete
+C:\Users\exact209\Desktop\Task 2\Development Prototype\bin\Debug\Development Prototype.exe.config
+C:\Users\exact209\Desktop\Task 2\Development Prototype\bin\Debug\Development Prototype.exe
+C:\Users\exact209\Desktop\Task 2\Development Prototype\bin\Debug\Development Prototype.pdb
+C:\Users\exact209\Desktop\Task 2\Development Prototype\bin\Debug\Newtonsoft.Json.dll
+C:\Users\exact209\Desktop\Task 2\Development Prototype\bin\Debug\Newtonsoft.Json.xml
+C:\Users\exact209\Desktop\Task 2\Development Prototype\obj\Debug\Development Prototype.csproj.AssemblyReference.cache
+C:\Users\exact209\Desktop\Task 2\Development Prototype\obj\Debug\Development_Prototype.Fitness.resources
+C:\Users\exact209\Desktop\Task 2\Development Prototype\obj\Debug\Development_Prototype.Health.resources
+C:\Users\exact209\Desktop\Task 2\Development Prototype\obj\Debug\Development_Prototype.Login.resources
+C:\Users\exact209\Desktop\Task 2\Development Prototype\obj\Debug\Development_Prototype.Properties.Resources.resources
+C:\Users\exact209\Desktop\Task 2\Development Prototype\obj\Debug\Development_Prototype.Register.resources
+C:\Users\exact209\Desktop\Task 2\Development Prototype\obj\Debug\Development_Prototype.Weather.resources
+C:\Users\exact209\Desktop\Task 2\Development Prototype\obj\Debug\Development Prototype.csproj.GenerateResource.cache
+C:\Users\exact209\Desktop\Task 2\Development Prototype\obj\Debug\Development Prototype.csproj.CoreCompileInputs.cache
+C:\Users\exact209\Desktop\Task 2\Development Prototype\obj\Debug\Development Prototype.csproj.CopyComplete
+C:\Users\exact209\Desktop\Task 2\Development Prototype\obj\Debug\Development Prototype.exe
+C:\Users\exact209\Desktop\Task 2\Development Prototype\obj\Debug\Development Prototype.pdb
+M:\Task 2\Development Prototype\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+M:\Task 2\Development Prototype\bin\Debug\OpenAI_API.dll
+M:\Task 2\Development Prototype\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+M:\Task 2\Development Prototype\bin\Debug\System.Threading.Tasks.Extensions.dll
+M:\Task 2\Development Prototype\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+M:\Task 2\Development Prototype\bin\Debug\OpenAI_API.xml
+M:\Task 2\Development Prototype\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+M:\Task 2\Development Prototype\bin\Debug\System.Threading.Tasks.Extensions.xml
+M:\Task 2\Development Prototype\bin\Debug\Elmah.dll
+M:\Task 2\Development Prototype\bin\Debug\Elmah.Mvc.dll
+M:\Task 2\My Work\Development Prototype\bin\Debug\Development Prototype.exe.config
+M:\Task 2\My Work\Development Prototype\bin\Debug\Development Prototype.exe
+M:\Task 2\My Work\Development Prototype\bin\Debug\Development Prototype.pdb
+M:\Task 2\My Work\Development Prototype\bin\Debug\Elmah.dll
+M:\Task 2\My Work\Development Prototype\bin\Debug\Elmah.Mvc.dll
+M:\Task 2\My Work\Development Prototype\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+M:\Task 2\My Work\Development Prototype\bin\Debug\Newtonsoft.Json.dll
+M:\Task 2\My Work\Development Prototype\bin\Debug\OpenAI_API.dll
+M:\Task 2\My Work\Development Prototype\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+M:\Task 2\My Work\Development Prototype\bin\Debug\System.Threading.Tasks.Extensions.dll
+M:\Task 2\My Work\Development Prototype\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+M:\Task 2\My Work\Development Prototype\bin\Debug\Newtonsoft.Json.xml
+M:\Task 2\My Work\Development Prototype\bin\Debug\OpenAI_API.xml
+M:\Task 2\My Work\Development Prototype\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+M:\Task 2\My Work\Development Prototype\bin\Debug\System.Threading.Tasks.Extensions.xml
+M:\Task 2\My Work\Development Prototype\obj\Debug\Development Prototype.csproj.AssemblyReference.cache
+M:\Task 2\My Work\Development Prototype\obj\Debug\Development_Prototype.Fitness.resources
+M:\Task 2\My Work\Development Prototype\obj\Debug\Development_Prototype.Health.resources
+M:\Task 2\My Work\Development Prototype\obj\Debug\Development_Prototype.Login.resources
+M:\Task 2\My Work\Development Prototype\obj\Debug\Development_Prototype.Properties.Resources.resources
+M:\Task 2\My Work\Development Prototype\obj\Debug\Development_Prototype.Register.resources
+M:\Task 2\My Work\Development Prototype\obj\Debug\Development_Prototype.Weather.resources
+M:\Task 2\My Work\Development Prototype\obj\Debug\Development Prototype.csproj.GenerateResource.cache
+M:\Task 2\My Work\Development Prototype\obj\Debug\Development Prototype.csproj.CoreCompileInputs.cache
+M:\Task 2\My Work\Development Prototype\obj\Debug\Development Prototype.csproj.CopyComplete
+M:\Task 2\My Work\Development Prototype\obj\Debug\Development Prototype.exe
+M:\Task 2\My Work\Development Prototype\obj\Debug\Development Prototype.pdb
