@@ -24,7 +24,8 @@ namespace Development_Prototype
         public void btnRegister_Click(object sender, EventArgs e)
         {            
             //opens a connection to database
-            using (OleDbConnection connection = new OleDbConnection(@"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=M:\Task 2\My Work\UserInfromation.accdb"))
+            string connectionstring = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=M:\Task 2\My Work\UserInfromation.accdb";
+            using (OleDbConnection connection = new OleDbConnection(connectionstring))
             {
                 //set variables with values
                 string user = txtUsername.Text;
